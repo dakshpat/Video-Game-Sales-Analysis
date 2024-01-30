@@ -2,7 +2,7 @@
 
 Project Description:
 
-This project was an analysis on video game sales during their year of release in different regions from 1980 to 2020. The data was sourced from a public site: [Kaggle](https://www.kaggle.com/datasets/gregorut/videogamesales). I performed a series of queries to analyze the data using pandasql (see below). I then created interactive data visualizations with Tableau Software linked here: Tableau Data Visualizations.
+This project was an analysis on video game sales during their year of release in different regions from 1980 to 2020. The data was sourced from a public site: [Kaggle](https://www.kaggle.com/datasets/gregorut/videogamesales). I performed a series of queries to analyze the data using pandasql (see below). I then created interactive data visualizations with Tableau Software linked here: [Tableau Data Visualizations](https://public.tableau.com/app/profile/daksh.patel5064/viz/VideoGameSalesReport_17065674206280/Dashboard1).
 
 Dashboard key metrics:
 *   Video game sales performance during release year
