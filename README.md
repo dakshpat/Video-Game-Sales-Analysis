@@ -11,6 +11,11 @@ Dashboard key metrics:
 *   Sales for top 5 platforms, genres, and publishers
 *   Filters for year, platform, genre, and publisher
 
+Tableau Dashboard: 
+
+![image](https://github.com/dakshpat/Video-Game-Sales-Analysis/assets/77649653/bb88f0af-8141-411f-8130-0dbf1263484a)
+
+
 
 
 <ins>Top 5 Best Selling Platforms In Each Region</ins>
