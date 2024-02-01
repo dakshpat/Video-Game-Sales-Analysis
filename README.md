@@ -13,7 +13,7 @@ Dashboard key metrics:
 
 Tableau Dashboard: 
 
-![image](https://github.com/dakshpat/Video-Game-Sales-Analysis/assets/77649653/bb88f0af-8141-411f-8130-0dbf1263484a)
+![image](https://github.com/dakshpat/Video-Game-Sales-Analysis/assets/77649653/c0997a47-ec73-4612-8de7-51d99a307042)
 
 
 
